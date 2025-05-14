@@ -18,19 +18,7 @@ IMDB_Dataset_of_50K_Movie_Reviews/
 │   ├── BiGRU_training_log.csv   # Training logs for BiGRU
 │   ├── BiLSTM_training_log.csv  # Training logs for BiLSTM
 │   ├── BiRNN_training_log.csv   # Training logs for BiRNN
-├── Model/
-│   ├── BiGRU.h5                 # Trained BiGRU model
-│   ├── BiLSTM.h5                # Trained BiLSTM model
-│   ├── BiRNN.h5                 # Trained BiRNN model
-│   ├── imdb_best_model.h5       # Best performing model
-│   ├── bert_best_model/         # Directory containing the best BERT model
-│       ├── config.json
-│       ├── model.safetensors
-│       ├── special_tokens_map.json
-│       ├── tokenizer_config.json
-│       ├── tokenizer.json
-│       ├── training_args.bin
-│       ├── vocab.txt
+
 ```
 
 ## Requirements
